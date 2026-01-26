@@ -1,2 +1,2 @@
-# Runec
-Compiler for "Rune"
+# Iris
+Compiler for "Iris"
