@@ -1,2 +1,2 @@
 # Runec
-Compilier for "Rune"
+Compiler for "Rune"
