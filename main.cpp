@@ -2,29 +2,18 @@
 Authored by: Preston Vardaman
 Iris Compiler Project
 */
+#include <iostream>
 
-#include <cctype>
-#include <cstdio>
-#include <cstdlib>
-#include <map>
-#include <memory>
-#include <string>
-#include <utility>
-#include <vector>
-
-enum class(){
-	
+enum class tokens{
+    _return,
+    lit_int,
+};
 
 
 
 
-}
+int main(int argc, char *argv[]){
 
 
-
-
-int main(){
-
-
-
+    return 0;
 }
